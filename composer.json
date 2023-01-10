@@ -25,8 +25,7 @@
         "twilio/sdk": "^6.44",
         "tymon/jwt-auth": "*",
         "yajra/laravel-datatables-oracle": "*",
-         "infyomlabs/laravel-generator": "^5.0",
-         "infyomlabs/adminlte-templates": "^5.0"
+         "infyomlabs/laravel-generator": "^5.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.7",
